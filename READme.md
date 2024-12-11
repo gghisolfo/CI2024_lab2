@@ -38,3 +38,15 @@ For more details on the Traveling Salesman Problem, see this [article on Routifi
 ---
 
 This table shows that the Simulated Annealing approach generally produces shorter routes compared to the Greedy Nearest-Neighbor method, demonstrating its effectiveness in approximating a better solution for TSP.
+
+
+## requested information
+
+
+| File          | **Simulated Annealing** - Cost | **Simulated Annealing** - Number of Steps | **Greedy Nearest-Neighbor** - Cost | **Greedy Nearest-Neighbor** - Number of Steps |
+|---------------|-----------------------------------|----------------------------------------|---------------------------------------|--------------------------------------------|
+| china.csv |   cost1                           |    steps1                               |    cost2                               |     steps2                                 |
+| italy.csv |   cost3                           |    steps3                               |    cost4                               |     steps4                                 |
+| russia.csv|   cost5                           |    steps5                               |    cost6                               |     steps6                                 |
+| us.csv    |   cost7                           |    steps7                               |    cost8                               |     steps8                                 |
+| vanuatu.csv | cost9                           |    steps9                               |    cost10                              |     steps10                                |
