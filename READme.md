@@ -29,11 +29,11 @@ For more details on the Traveling Salesman Problem, see this [article on Routifi
 
 | File         | Simulated Annealing Distance (km) | Greedy Nearest-Neighbor Distance (km) |
 |--------------|-----------------------------------|---------------------------------------|
-| china.csv    | 62,496.74                         | 63,962.92                             |
-| italy.csv    | 4,174.94                          | 4,436.03                              |
-| russia.csv   | 40,665.66                         | 42,334.16                             |
-| us.csv       | 34,037.59                         | 48,050.03                             |
-| vanuatu.csv  | 1,345.54                          | 1,475.53                              |
+| china.csv    | 62496.74                         | 63962.92                             |
+| italy.csv    | 4174.94                          | 4436.03                              |
+| russia.csv   | 40665.66                         | 42334.16                             |
+| us.csv       | 34037.59                         | 48050.03                             |
+| vanuatu.csv  | 1345.54                          | 1475.53                              |
 
 ---
 
@@ -45,8 +45,8 @@ This table shows that the Simulated Annealing approach generally produces shorte
 
 | File          | **Simulated Annealing** - Cost | **Simulated Annealing** - Number of Steps | **Greedy Nearest-Neighbor** - Cost | **Greedy Nearest-Neighbor** - Number of Steps |
 |---------------|-----------------------------------|----------------------------------------|---------------------------------------|--------------------------------------------|
-| china.csv |   cost1                           |    steps1                               |    cost2                               |     steps2                                 |
-| italy.csv |   cost3                           |    steps3                               |    cost4                               |     steps4                                 |
-| russia.csv|   cost5                           |    steps5                               |    cost6                               |     steps6                                 |
-| us.csv    |   cost7                           |    steps7                               |    cost8                               |     steps8                                 |
-| vanuatu.csv | cost9                           |    steps9                               |    cost10                              |     steps10                                |
+| china.csv |   62496.74                            |    458500                               |    63962.92                               |     726                                 |
+| italy.csv |   4174.94                          |    458500                               |    4436.03                               |     46                                 |
+| russia.csv|   40665.66                            |    458500                               |    42334.16                               |     167                                 |
+| us.csv    |   34037.59                            |    458500                               |    48050.03                               |     326                                 |
+| vanuatu.csv | 1345.54                          |    458500                               |    1475.53                              |     8                                |
